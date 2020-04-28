@@ -1,0 +1,47 @@
+.body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #696969;
+    background-color:;
+}
+
+.content{
+	border: 2px solid #000;
+	margin-top: 80px;
+	height: 100%;
+	width: 100%;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%fff;
+  height: 100vh;
+}
+
+.jumbo {
+  padding-top: 150px;
+  height: 200vh;
+}
+
+.navbar a {
+  color: #000;
+    background: #fff;
+}
+.navbar li.active {
+  background: #000;
+}
+.navbar li.active a {
+  color: #000;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #131313;
+}
+
+.shrink .navbar {
+  color: #fafafa;
+  background: #000000;
+  background: linear-gradient(35deg, #03918d 90%);
+}
+.shrink .navbar-toggle .icon-bar {
+  background: #000000;
+}
